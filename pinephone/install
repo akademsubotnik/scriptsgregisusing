@@ -1,0 +1,4 @@
+1) Install manjaro to an sd card and boot to it
+2) Install pmbootstrap on manjaro
+  a) pmbootstrap init
+  b) pmbootstrap install --filesystem f2fs --sdcard /dev/mmcblk2
